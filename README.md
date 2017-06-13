@@ -12,3 +12,15 @@ Steps to deploy
 `jekyll serve --host 0.0.0.0 --port 4567`
 
 
+## Meta
+
+**License**
+
+The code snippets are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+**Questions? Comments?**
+
+Post them to the [Repository Issues](https://github.com/x0v/jekyll-demo/issues/new). Thanks!
+
+
+
