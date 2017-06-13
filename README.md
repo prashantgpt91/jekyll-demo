@@ -1,6 +1,6 @@
 **Cloudadic old Blog**
 
-This is the old blog of Cloudadic Inc. maintained by me. 
+This is the old blog of Cloudadic Inc, maintained by me. 
 
 > Demo is live at http://104.199.200.73:4001/
 
@@ -16,7 +16,7 @@ Steps to deploy -
 
 **License**
 
-The code snippets are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The blog is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
 
 **Questions? Comments?**
 
