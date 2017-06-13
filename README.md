@@ -1,4 +1,7 @@
 **Cloudadic old Blog**
+
+This is the old blog of Cloudadic Inc. maintained by me. 
+
 > Demo is live at http://104.199.200.73:4001/
 
 Just plug n play jekyll blog template, along with tags, subscribe, share etc..
