@@ -1,6 +1,6 @@
 **Cloudadic old Blog**
 
-This is the old blog of Cloudadic Inc, maintained by me. 
+This is the old blog of Cloudadic Inc, developed by me in Jekyll. 
 
 > Demo is live at http://104.199.200.73:4001/
 
