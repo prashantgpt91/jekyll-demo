@@ -15,8 +15,8 @@ Steps to deploy -
 ![Demo](https://s2.postimg.org/b4g430veh/jekyll-demo.gif)
 
 ## Credits
-[Stackoverflow Blog](https://stackoverflow.blog/)
-
+I am no expert at frontend. [Stackoverflow Blog](https://stackoverflow.blog/)
+Note: I've made some changes to this and will continue to do so.
 
 ## Meta
 
