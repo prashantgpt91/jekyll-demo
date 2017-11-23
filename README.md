@@ -2,7 +2,7 @@
 
 This is the old blog of Cloudadic Inc, developed by me in Jekyll. 
 
-> Demo is live at http://104.199.200.73:4001/
+> Demo is live at http://bit.ly/2A69Yrg
 
 just plug n play jekyll blog template, along with tags, subscribe, share etc..
 
@@ -15,7 +15,9 @@ Steps to deploy -
 ![Demo](https://s2.postimg.org/b4g430veh/jekyll-demo.gif)
 
 ## Credits
-I am no expert at frontend. [Stackoverflow Blog](https://stackoverflow.blog/)
+I am no expert at frontend.
+
+[Stackoverflow Blog](https://stackoverflow.blog/)
 
 Note: I've made some changes to this and will continue to do so.
 
