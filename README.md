@@ -2,8 +2,6 @@
 
 This is the old blog of Cloudadic Inc, developed by me in Jekyll. 
 
-> Demo is live at http://bit.ly/2A69Yrg
-
 just plug n play jekyll blog template, along with tags, subscribe, share etc..
 
 Steps to deploy -
