@@ -1,6 +1,6 @@
 **Cloudadic old Blog**
 
-This is the old blog of Cloudadic Inc, developed by me in Jekyll. 
+This is the old blog of Cloudadic Inc, maintained by me in Jekyll cloned from Stackoverflow Blog. 
 
 just plug n play jekyll blog template, along with tags, subscribe, share etc..
 
