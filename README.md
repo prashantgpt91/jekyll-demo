@@ -10,7 +10,7 @@ Steps to deploy -
 * `jekyll serve --host 0.0.0.0 --port 4001`
 
 ## Video Demo
-![Demo](https://s2.postimg.org/b4g430veh/jekyll-demo.gif)
+![Demo](https://www.youtube.com/watch?v=XlWstJg3v70&feature=youtu.be)
 
 ## Credits
 I am no expert at frontend.
